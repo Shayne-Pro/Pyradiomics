@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+data/
+results/
+model/
+features*.xlsx
+features*.csv
+.DS_Store
